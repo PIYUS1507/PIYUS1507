@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Piyush
+# 👋 Hi, I'm Piyush Rajurkar
 
-### Computer Engineering Student | Software Developer | Problem Solver
+### Software Developer | AI/ML Enthusiast | Full Stack Developer | Problem Solver
 
 <p>
   <a href="https://github.com/PIYUS1507">
     <img src="https://img.shields.io/badge/GitHub-PIYUS1507-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://leetcode.com/u/PIYUS1507/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+    <img src="https://img.shields.io/badge/LeetCode-PIYUS1507-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
@@ -22,37 +22,49 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Interested in Software Development and Problem Solving
-- 🧠 Practicing Data Structures & Algorithms using C++
-- 🌐 Building Full Stack Applications
-- 🤖 Exploring AI, Machine Learning & Generative AI
-- ☁️ Learning Cloud Computing and Distributed Systems
-- 🚀 Always learning and building new projects
+I'm a Computer Engineering student passionate about building
+practical software solutions using **AI, Machine Learning,
+Full Stack Development and modern technologies.**
+
+- 💻 Strong interest in **C++ and Data Structures & Algorithms**
+- 🤖 Building applications using **AI/ML and Generative AI**
+- 🌐 Developing **Full Stack Web Applications**
+- 🧠 Exploring **RAG, LLMs and AI Agents**
+- ☁️ Learning **Cloud Computing & Distributed Systems**
+- 🚀 Focused on building real-world and scalable projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java,mysql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java" />
 </p>
 
-### Web Development
+### 🌐 Full Stack Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" />
 </p>
 
-### Databases & Cloud
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker,aws,gcp" />
+
+`Machine Learning` `Generative AI` `LLMs` `RAG`
+`LangGraph` `NLP` `TF-IDF` `Cosine Similarity`
+
 </p>
 
-### Tools
+### 🗄️ Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,gcp,aws" />
+</p>
+
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
@@ -60,69 +72,76 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧾 AI Bill & Expense Extractor
+## 🤖 Repo Analyzer
 
-A full-stack application designed to extract useful information
-from bills/emails and store structured expense data.
+An AI-powered platform that helps developers discover and
+contribute to open-source projects while enabling recruiters
+to discover engineering talent through AI-powered codebase analysis.
 
-**Tech:** `Next.js` `React` `Prisma` `BigQuery`
-
----
-
-### 🐍 Snake Game
-
-A classic Snake Game built using Python.
-
-**Tech:** `Python`
+**Tech:** `JavaScript` `AI` `RAG` `Code Analysis`
 
 ---
 
-### 🌐 Personal Portfolio
+## 🎬 Cine-Matrix — Movie Recommendation System
 
-A personal portfolio website showcasing my skills,
-projects and development journey.
+A hybrid movie recommendation system using Machine Learning
+techniques such as **TF-IDF and Cosine Similarity**, combined
+with movie metadata.
 
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-### 💻 DSA & Problem Solving
-
-Collection of Data Structures & Algorithms solutions
-and competitive programming practice.
-
-**Tech:** `C++` `STL` `Algorithms`
+**Tech:** `Python` `Machine Learning` `NLP` `TF-IDF`
 
 ---
 
-## 🧠 Data Structures & Algorithms
+## ✍️ Blog Agent
 
-<div align="center">
+An autonomous AI-powered blog generation platform using
+multiple specialized AI agents for research, planning and
+content generation.
+
+**Tech:** `LangGraph` `FastAPI` `React` `Vite` `AI Agents`
+
+---
+
+## 💬 Chatify
+
+A real-time communication application focused on building
+modern web-based messaging functionality.
+
+**Tech:** `JavaScript` `React` `Node.js`
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+I regularly practice problem solving and algorithmic thinking
+using **C++ and STL**.
 
 ### LeetCode
 
+<div align="center">
+
 <a href="https://leetcode.com/u/PIYUS1507/">
-  <img src="https://img.shields.io/badge/LeetCode-PIYUS1507-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/PIYUS1507/">
-  <img src="https://leetcard.jacoblin.cool/PIYUS1507?theme=dark&font=Baloo&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/PIYUS1507?theme=dark&ext=heatmap" />
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=PIYUS1507&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+src="https://github-readme-stats.vercel.app/api?username=PIYUS1507&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUS1507&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -131,7 +150,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUS1507&la
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -141,7 +160,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUS1507&la
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -151,15 +170,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUS1507&la
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Exploring
 
 ```text
 Data Structures & Algorithms
-           ↓
+            ↓
 Full Stack Development
-           ↓
+            ↓
 Machine Learning
-           ↓
+            ↓
 Generative AI & LLMs
-           ↓
-Cloud Computing
+            ↓
+RAG & AI Agents
+            ↓
+Cloud & Distributed Systems
