@@ -122,13 +122,13 @@ using **C++ and STL**.
 
 <div align="center">
 
-<a href="https://leetcode.com/u/PIYUS1507/">
+<a href="https://leetcode.com/u/piyush_R1507/">
 <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 <br><br>
 
-<a href="https://leetcode.com/u/PIYUS1507/">
+<a href="https://leetcode.com/u/piyush_R1507/">
 <img src="https://leetcard.jacoblin.cool/PIYUS1507?theme=dark&ext=heatmap" />
 </a>
 
