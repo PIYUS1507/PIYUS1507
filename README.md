@@ -123,18 +123,6 @@ https://github.com/PIYUS1507/chatify_project
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PIYUS1507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PIYUS1507&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
