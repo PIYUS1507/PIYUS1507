@@ -120,16 +120,19 @@ using **C++ and STL**.
 
 ### LeetCode
 
+## 🧠 Problem Solving
+
 <div align="center">
 
 <a href="https://leetcode.com/u/piyush_R1507/">
-<img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+<img src="https://leetcard.jacoblin.cool/piyush_R1507?theme=dark&font=Baloo&ext=heatmap"
+     alt="LeetCode Stats"/>
 </a>
 
 <br><br>
 
 <a href="https://leetcode.com/u/piyush_R1507/">
-<img src="https://leetcard.jacoblin.cool/PIYUS1507?theme=dark&ext=heatmap" />
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 </div>
